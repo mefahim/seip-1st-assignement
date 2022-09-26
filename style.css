@@ -105,3 +105,15 @@
     font-size: 20px;
     color: #fff;
 }
+.button{
+    background-color:#bda34d;
+    border: none;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+.get-in-touch input{
+    background-color: #fff9ef;
+}.get-in-touch textarea{
+    background-color: #fff9ef;
+}
